@@ -1,0 +1,13 @@
+plugins {
+    id 'java-library'
+}
+
+group 'ru.otus.cources.simple-spring-exam'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    implementation group: 'org.apache.commons', name: 'commons-csv'
+    implementation group: 'org.apache.commons', name: 'commons-lang3'
+    implementation group: 'org.springframework', name: 'spring-context'
+}
+
