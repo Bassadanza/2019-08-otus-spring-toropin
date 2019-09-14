@@ -1,4 +1,4 @@
 rootProject.name = 'spring-framework'
 
 include 'simple-spring-exam'
-
+include 'spring-boot-exam'
