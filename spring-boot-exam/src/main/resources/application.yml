@@ -1,0 +1,5 @@
+examData:
+  ru: examData_ru.csv
+  en: examData_en.csv
+defaultEncoding: UTF-8
+commonDataFileName: commonData
